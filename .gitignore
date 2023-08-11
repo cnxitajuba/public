@@ -51,3 +51,5 @@ node_modules/
 *.avchd
 *.aac
 *.jsp
+Thumbs.db
+*.~
